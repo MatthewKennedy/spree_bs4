@@ -2,9 +2,11 @@
 
 This extension adds Bootstrap 4 CSS and Javascript into the frontend of your Spree project.
 
-Please be aware that you will need to pick through your Spree frontend view files replacing the old Bootstrap 3 classes with the relevant Boostrap 4 classes, the extension assumes you will be doing some web design to entirely customise the look and feel of the Spree store, and therefor makes no attempt to render a pretty view out of the box.
+Please be aware that you will need to pick through your Spree frontend view files replacing the old Bootstrap 3 classes with the relevant Boostrap 4 classes.
 
-If you find any issues while using this extension please raise an issue, or fork the project, fix/update/improve and then submit a pull request.
+The extension was designed with the assumption that you will be doing some web design to entirely customise the look and feel of your Spree store, and therefor we make no attempt to render a pretty view out of the box.
+
+If you find any problems while using this extension please raise an issue, or fork the project, fix/update/improve and then submit a pull request.
 
 ## Installation
 
