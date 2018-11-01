@@ -1,6 +1,6 @@
 # spree_bs4
 
-This extension removes the Bootstrap 3 CSS and Javascript from the front end of your Spree 3.X project and then inserts Bootstrap 4 CSS and Javascript into the frontend read for use.
+This extension removes the Bootstrap 3 CSS and Javascript from the frontend of your Spree 3.X project, and then inserts Bootstrap 4 CSS and Javascript back into the frontend ready for use.
 
 Please be aware that you will need to pick through your Spree frontend view files replacing the old Bootstrap 3 classes with the relevant Boostrap 4 classes.
 
