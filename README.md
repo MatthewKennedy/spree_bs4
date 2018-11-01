@@ -1,6 +1,6 @@
 # SpreeBs4
 
-This extension adds Bootstrap 4 CSS and Javascript into the frontend of your Spree project. The spree_bs4 extension is intended to be used after the spree_remove_bs3 gem has been installed.
+This extension adds Bootstrap 4 CSS and Javascript into the frontend of your Spree project. The spree_bs4 extension is intended to be used after the spree_remove_bs3 gem has been installed removing the Bootstrap 3 CSS and JS, instructions for use are below.
 
 Please be aware that you will need to pick through your Spree frontend view files replacing the old Bootstrap 3 classes with the relevant Boostrap 4 classes, the extension assumes you will be doing some web design to entirely customise the look and feel of the Spree store, and therefor makes no attempt to render a pretty view out of the box.
 
