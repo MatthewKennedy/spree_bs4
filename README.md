@@ -1,4 +1,4 @@
-# Spree_Bs4
+# spree_bs4
 
 This extension adds Bootstrap 4 CSS and Javascript into the frontend of your Spree project.
 
