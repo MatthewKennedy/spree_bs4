@@ -31,7 +31,7 @@ If you find any problems while using this extension please raise an issue, or fo
 
   If your server was running, restart it so that it can find the assets properly.
   
-  That is it, you should have a Spree 3.X project with a fully working Bootstrap 3 Admin interface and a Frontend with only the essential Spree scripts and new Bootstrap 4 CSS and JS ready for some webdesign.
+  That is it, you should have a Spree 3.X project with a fully working **Bootstrap 3 Admin interface** and a **Frontend with Bootstrap 4 CSS and JS**.
 
 ## Testing
 
